@@ -18,5 +18,5 @@ OSA is composed of multiples, possibly many, maven sub-projects. However to allo
 
 ## About this module
 
-This module is a common root for all simapis module. It dos not contain any code.
+This module is a common root for all simapis module. It does not contain any code.
 

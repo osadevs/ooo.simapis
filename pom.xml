@@ -28,6 +28,7 @@
 	<name>OSA Simulation APIs</name>
 	<packaging>pom</packaging>
 
+	<description>This module is a common root for all simapis module. It does not contain any code.</description>
 
 	<profiles>
 		<profile>
