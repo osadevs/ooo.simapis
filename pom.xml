@@ -72,4 +72,9 @@
 			</build>
 		</profile>
 	</profiles>
+	
+	<modules>
+		<module>../ooo.simapis.newdes</module>
+		<module>../ooo.simapis.newdes.osalet</module>
+	</modules>
 </project>
